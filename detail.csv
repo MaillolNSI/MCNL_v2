@@ -1,4 +1,4 @@
-Matiere;SousMatiere;Nom du logiciel,lien vers le zip,lien  vers l'icone
+Matiere;SousMatiere;Nom du logiciel,https://drive.google.com/uc?export=view&id=1JaorJQxyDgng1EmE1Dv5zIophB0Xuv-m,lien  vers l'icone
 Accessibilite;Outils pour les DYS;Anki;http://lien
 Accessibilite;Outils pour les DYS;Chewing Word;http://lien
 Accessibilite;Outils pour les DYS;Clavier visuel 64 bits;http://lien
@@ -27,8 +27,9 @@ ArtPlastique;Gimp;http://lien
 ArtPlastique;Krita;http://lien
 ArtPlastique;MonkeyJam;http://lien
 ArtPlastique;Openshot Video Editor;http://lien
-ArtPlastique;Pencil2D;https://drive.google.com/file/d/140lJD7zT9CyY8Pp-bBZRBYHGnGAgHMgE/view?usp=sharing
+ArtPlastique;Pencil2D;https://drive.google.com/uc?export=download&id=140lJD7zT9CyY8Pp-bBZRBYHGnGAgHMgE&confirm=t
 ArtPlastique;PhotoFiltre 7;http://lien
 ArtPlastique;VLC;http://lien
-ArtPlastique;VideoPad;http://lien
-ArtPlastique;XnView;http://lien
+ArtPlastique;VideoPad;https://lien
+ArtPlastique;XnViewMP;https://drive.google.com/uc?export=download&id=19MCjB9KUzEH8vZWXmeNf-XyyhaH8szvX&confirm=t
+
